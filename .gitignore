@@ -1,0 +1,61 @@
+﻿# Build Folders
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.generated.cs
+*.Designer.cs
+*.g.cs
+*.g.i.cs
+
+# Visual Studio folders
+.vs/
+.vscode/
+
+# NuGet packages
+*.nupkg
+packages/
+# The project lock file can be committed or ignored depending on preference
+# project.lock.json
+# *.nuget.props
+# *.nuget.targets
+
+# Rider IDE
+.idea/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# IIS Express
+IISExpress/
+*.vspscc
+
+# Others
+*.log
+*.tlog
+*.lastbuildstate
+*.sqlite
+*.db
+*.cache
+*.DS_Store
+
+# Publish outputs
+publish/
+*.deploy.cmd
+*.deploymanifest
+/KeyGenerator/obj/Debug/net8.0/KeyGenerator.AssemblyInfo.cs
+/KeyGenerator/obj/Debug/net8.0/KeyGenerator.AssemblyInfoInputs.cache
+/KeyGenerator/obj/Debug/net8.0/KeyGenerator.GeneratedMSBuildEditorConfig.editorconfig
+/KeyGenerator/obj/Debug/net8.0/KeyGenerator.assets.cache
+/KeyGenerator/obj/project.assets.json
+/KeyGenerator/obj/KeyGenerator.csproj.nuget.dgspec.json
+/KeyGenerator/obj/project.nuget.cache
