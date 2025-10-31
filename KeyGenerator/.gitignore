@@ -52,10 +52,3 @@ IISExpress/
 publish/
 *.deploy.cmd
 *.deploymanifest
-/KeyGenerator/obj/Debug/net8.0/KeyGenerator.AssemblyInfo.cs
-/KeyGenerator/obj/Debug/net8.0/KeyGenerator.AssemblyInfoInputs.cache
-/KeyGenerator/obj/Debug/net8.0/KeyGenerator.GeneratedMSBuildEditorConfig.editorconfig
-/KeyGenerator/obj/Debug/net8.0/KeyGenerator.assets.cache
-/KeyGenerator/obj/project.assets.json
-/KeyGenerator/obj/KeyGenerator.csproj.nuget.dgspec.json
-/KeyGenerator/obj/project.nuget.cache
