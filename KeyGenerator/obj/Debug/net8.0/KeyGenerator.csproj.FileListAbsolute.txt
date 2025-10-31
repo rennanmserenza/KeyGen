@@ -1,0 +1,14 @@
+C:\DEV_TESTE\KeyGenerator\bin\Debug\net8.0\KeyGenerator.exe
+C:\DEV_TESTE\KeyGenerator\bin\Debug\net8.0\KeyGenerator.deps.json
+C:\DEV_TESTE\KeyGenerator\bin\Debug\net8.0\KeyGenerator.runtimeconfig.json
+C:\DEV_TESTE\KeyGenerator\bin\Debug\net8.0\KeyGenerator.dll
+C:\DEV_TESTE\KeyGenerator\bin\Debug\net8.0\KeyGenerator.pdb
+C:\DEV_TESTE\KeyGenerator\obj\Debug\net8.0\KeyGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV_TESTE\KeyGenerator\obj\Debug\net8.0\KeyGenerator.AssemblyInfoInputs.cache
+C:\DEV_TESTE\KeyGenerator\obj\Debug\net8.0\KeyGenerator.AssemblyInfo.cs
+C:\DEV_TESTE\KeyGenerator\obj\Debug\net8.0\KeyGenerator.csproj.CoreCompileInputs.cache
+C:\DEV_TESTE\KeyGenerator\obj\Debug\net8.0\KeyGenerator.dll
+C:\DEV_TESTE\KeyGenerator\obj\Debug\net8.0\refint\KeyGenerator.dll
+C:\DEV_TESTE\KeyGenerator\obj\Debug\net8.0\KeyGenerator.pdb
+C:\DEV_TESTE\KeyGenerator\obj\Debug\net8.0\KeyGenerator.genruntimeconfig.cache
+C:\DEV_TESTE\KeyGenerator\obj\Debug\net8.0\ref\KeyGenerator.dll
