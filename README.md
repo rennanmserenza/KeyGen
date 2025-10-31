@@ -1,0 +1,45 @@
+# KeyGen
+
+Uma aplicação de console, feita para gerar Chaves. Não recomendamos a utilização dos exemplos de chaves publicados a baixo.
+
+## Exemplos
+
+### ValidationKey: 
+    DCD0D62654F5C4E5AAB0F5976942F2A908A00DBD7EFC25AA4A24FE74BBC40B57189266D56F531F34A5F7156760112562107A8C4C6C859C006872ED26BB7843F0
+  
+### DecryptionKey: 
+    2019612451BF51EEC6970252CD252A3AE29A5EB8669452CA
+  
+### AES Key: 
+    410ECCD420147D93B8350A886A2E22D9E8A5896B762B7C0B21BDCF212409F2FC
+### AES IV: 
+    51C03BDDD3AD3722D7F13D519B1CA843
+
+### Salt: 
+    AE701F153EDFE0913B21393286286851
+### Token Key: 
+    E713714994D168CC7BBB1FA02871527E254F76009A80A04756024822C576AB37
+
+### APY Key: 
+    Rtg7WX6hIyJlGATH_lcBBcSJNapjuYfV3tcRffrg8QwSdub9ohB1kQ
+### File Id: 
+    52S7AOYPW26HRRMTYMGA
+### TMP password: 
+    81+ZhuLz79c=
+### Nonce: 
+    SjIJ4ZuWVE6zaYZnj9jAvA
+
+### API Key: 
+    API_qfpsdnJ6mAlkzV6nkLv6D0pfoNvOCcYcMozuUGC9cXw
+### TEMP Token (expira em 10 min): 
+    TEMP_JHVNDOQ4YBD7AHZZ7PMI6RQR5E_9EIDfr0Y3gg
+### FILE ID: 
+    File_GVSJYLVJKTYQKJEDT2RQ
+
+### Token gerado: 
+    LOGIN_OFAOdnOjEFBW5NThvskTfOL7gztHtmlT_5HvlrsEY3gg
+    
+    Prefixo: LOGIN
+    Criado em: 2025-10-31 20:08:47Z
+    Expira em: 2025-10-31 21:08:47Z
+    Valor criptográfico: OFAOdnOjEFBW5NThvskTfOL7gztHtmlT
